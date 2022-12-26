@@ -1,0 +1,29 @@
+{
+  "name": "01-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladdubrovskyi/node-01-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladdubrovskyi/node-01-homework/issues"
+  },
+  "homepage": "https://github.com/vladdubrovskyi/node-01-homework#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nanoid": "^4.0.0",
+    "yargs": "^17.6.2"
+  }
+}
