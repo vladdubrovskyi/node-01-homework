@@ -58,5 +58,11 @@
     "name": "Vlad",
     "email": "vlad@mail.com",
     "phone": "123123123"
+  },
+  {
+    "id": "b3c79dc8-b6b3-4ab6-a14f-5e6f50500b58",
+    "name": "vladyslav",
+    "email": "vladyslav@mail.com",
+    "phone": "01230123"
   }
 ]

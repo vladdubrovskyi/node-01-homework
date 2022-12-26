@@ -24,6 +24,7 @@
   "dependencies": {
     "commander": "^9.4.1",
     "nanoid": "^4.0.0",
+    "uuid": "^9.0.0",
     "yargs": "^17.6.2"
   }
 }
